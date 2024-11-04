@@ -21,10 +21,21 @@ Make the required changes as in package.json file
 
 **Step 5**: Start the Electron application Run the following command to start your Electron application:
 
+
 # npm run electron
 
 This will launch your React app in a new Electron window, and it will behave like a desktop application.
 **Note**: Make sure your React app is running on http://localhost:3000 (or update the URL in main.js accordingly) before starting the Electron application.
 
 That’s it! You have now successfully run your React web app as a Windows desktop application using Electron.
+
+**Reference** 
+
+https://medium.com/@sumairq18/running-reactjs-web-application-as-windows-desktop-application-in-5-steps-abcfd0e3994c
+
+https://medium.com/bobble-engineering/create-a-desktop-app-using-electron-and-react-b23b435c0506
+
+
+
+
 
